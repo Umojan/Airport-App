@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class ScheduleConfig(AppConfig):
+class InfoBannersConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'schedule'
+    name = 'info_banners'
