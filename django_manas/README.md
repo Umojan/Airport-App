@@ -7,5 +7,5 @@
  - .../api
 
 # Админка
- login: admin
- password: admin
+login: admin
+password: admin
