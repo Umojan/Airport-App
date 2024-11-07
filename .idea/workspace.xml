@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71aab3f7-0bb9-4ebe-8398-60a8b4c1d9dd" name="Changes" comment="v0.2 Added schedule model">
+      <change afterPath="$PROJECT_DIR$/django_manas/flights/filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_manas/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_manas/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_manas/django_manas/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_manas/django_manas/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_manas/flights/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_manas/flights/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_manas/flights/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_manas/flights/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Umojan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Umojan/Manas-Airport-App.git&quot;,
+    &quot;accountId&quot;: &quot;8b579b4a-6283-4ebd-ac13-88fd0a097a88&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2n7YkoaakwdwT0n22B7enpYKjP9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.Manas-Airport-App.executor": "Run",
+    "Django Server.ManasDjango.executor": "Run",
+    "Python.manas_schedule.executor": "Run",
+    "Python.tasks.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/vladg/PycharmProjects/Manas-Airport-App/manas_app/shops/templates",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.python.django.customization.DjangoModulesConfigurable",
+    "settings.editor.splitter.proportion": "0.34725052",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/manas_app/shops/templates" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Manas-Airport-App" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Manas-Airport-App" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_manas.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (Manas-Airport-App)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71aab3f7-0bb9-4ebe-8398-60a8b4c1d9dd" name="Changes" comment="" />
+      <created>1728325726906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728325726906</updated>
+      <workItem from="1728325727998" duration="24130000" />
+      <workItem from="1728717775253" duration="728000" />
+      <workItem from="1728723167699" duration="5080000" />
+      <workItem from="1728754794025" duration="830000" />
+      <workItem from="1728923766606" duration="616000" />
+      <workItem from="1729162151778" duration="1028000" />
+      <workItem from="1729324344493" duration="1307000" />
+      <workItem from="1729750925828" duration="819000" />
+      <workItem from="1729754766444" duration="635000" />
+      <workItem from="1729836009912" duration="840000" />
+      <workItem from="1729850782832" duration="6000" />
+      <workItem from="1729956184886" duration="408000" />
+      <workItem from="1730368683782" duration="722000" />
+      <workItem from="1730446402911" duration="16000" />
+      <workItem from="1730642728074" duration="6572000" />
+      <workItem from="1730816212415" duration="3865000" />
+      <workItem from="1730983628247" duration="3748000" />
+      <workItem from="1730987402611" duration="1154000" />
+    </task>
+    <task id="LOCAL-00001" summary="v0.1">
+      <option name="closed" value="true" />
+      <created>1728327092135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728327092135</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v0.2 added shops and reviews">
+      <option name="closed" value="true" />
+      <created>1728407687284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728407687284</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v0.2 added shops and reviews">
+      <option name="closed" value="true" />
+      <created>1728410126357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728410126357</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v0.3 added schedule and flights data collection">
+      <option name="closed" value="true" />
+      <created>1728479149456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728479149456</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Модели сторисов, баннеров и возможность создания в админке">
+      <option name="closed" value="true" />
+      <created>1730816381673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730816381673</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v0.2 Added schedule model">
+      <option name="closed" value="true" />
+      <created>1730986978890</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730986978891</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v0.1" />
+    <MESSAGE value="v0.2 added shops and reviews" />
+    <MESSAGE value="v0.3 added schedule and flights data collection" />
+    <MESSAGE value="Модели сторисов, баннеров и возможность создания в админке" />
+    <MESSAGE value="v0.2 Added schedule model" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.2 Added schedule model" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Manas_Airport_App$manas_schedule.coverage" NAME="tasks Coverage Results" MODIFIED="1728473350780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manas_app/schedule" />
+  </component>
+</project>
