@@ -9,4 +9,4 @@ class StoryBannerSerializer(serializers.ModelSerializer):
 class InfoBannerSerializer(serializers.ModelSerializer):
     class Meta:
         model = InfoBanner
-        fields = ['id', 'title', 'description', 'image', 'is_active']
+        fields = ['id', 'title', 'description', 'content', 'image', 'is_active']
