@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71aab3f7-0bb9-4ebe-8398-60a8b4c1d9dd" name="Changes" comment="v0.3 Added schedule model + filters in api">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/600b6e7c-5e6a-4e46-bc4e-dbdef730501b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/600b6e7c-5e6a-4e46-bc4e-dbdef730501b.xml" afterDir="false" />
+    <list default="true" id="71aab3f7-0bb9-4ebe-8398-60a8b4c1d9dd" name="Changes" comment="Added banners">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_manas/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_manas/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_manas/info_banners/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_manas/info_banners/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_manas/info_banners/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_manas/info_banners/migrations/0002_infobanner_is_active_storybanner_is_active.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_manas/info_banners/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_manas/info_banners/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_manas/media/info_banners/997644-1560660058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_manas/media/story_banners/9cb424969e54f8d4e995a8fa200100ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_manas/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/django_manas/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +140,7 @@
       <workItem from="1730642728074" duration="6572000" />
       <workItem from="1730816212415" duration="3865000" />
       <workItem from="1730983628247" duration="3748000" />
-      <workItem from="1730987402611" duration="5334000" />
+      <workItem from="1730987402611" duration="6797000" />
     </task>
     <task id="LOCAL-00001" summary="v0.1">
       <option name="closed" value="true" />
@@ -205,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730988831723</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added banners">
+      <option name="closed" value="true" />
+      <created>1730993591330</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730993591330</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added banners">
+      <option name="closed" value="true" />
+      <created>1730993601104</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730993601104</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +227,8 @@
     <MESSAGE value="Модели сторисов, баннеров и возможность создания в админке" />
     <MESSAGE value="v0.2 Added schedule model" />
     <MESSAGE value="v0.3 Added schedule model + filters in api" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.3 Added schedule model + filters in api" />
+    <MESSAGE value="Added banners" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added banners" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Manas_Airport_App$manas_schedule.coverage" NAME="tasks Coverage Results" MODIFIED="1728473350780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manas_app/schedule" />
