@@ -1,11 +1,10 @@
 # Django Manas App
 
-Для запуска сервера в терминале перейдите в */django_manas* и пропишите *python manage.py runserver*
-
-# Пути
+## Пути
  - .../admin
- - .../api
+ - .../api/info-banners/
+ - .../api/flights/
 
-# Админка
-login: admin
-password: admin
+## Админка
+#### login: admin
+#### password: admin
