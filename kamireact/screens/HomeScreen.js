@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import {
   View,
   Text,
@@ -13,8 +13,25 @@ import { Ionicons, MaterialIcons, FontAwesome5 } from "@expo/vector-icons";
 import { LinearGradient } from "expo-linear-gradient";
 import { useNavigation } from "@react-navigation/native";
 
+import axios from "axios";
+import BASE_URL from "../config"; // Импортируем базовый URL
+
 const HomeScreen = () => {
+  const [tips, setTips] = useState([]); // Состояние для советов
   const navigation = useNavigation();
+
+  useEffect(() => {
+    const fetchTips = async () => {
+      try {
+        const response = await axios.get(`${BASE_URL}/api/info-banners/info-banners/`);
+        setTips(response.data);
+      } catch (error) {
+        console.error("Ошибка при получении данных:", error);
+      }
+    };
+
+    fetchTips();
+  }, []);
 
   return (
     <View style={styles.container}>
@@ -95,20 +112,7 @@ const HomeScreen = () => {
             showsHorizontalScrollIndicator={false}
             contentContainerStyle={styles.tipsContainer}
           >
-            {[
-              {
-                title: "Экологические советы",
-                description: "Соблюдайте чистоту и природу",
-              },
-              {
-                title: "Как избежать задержек",
-                description: "Планируйте заранее",
-              },
-              {
-                title: "Что взять с собой",
-                description: "Не забудьте важные вещи",
-              },
-            ].map((tip, index) => (
+            {tips.map((tip, index) => (
               <LinearGradient
                 key={index}
                 colors={["#4DA8E1", "#0099FF"]}
